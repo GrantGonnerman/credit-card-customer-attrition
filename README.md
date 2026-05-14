@@ -32,8 +32,8 @@ This project develops predictive models to identify customers at high risk of ch
 - Identified key churn predictors: low transaction activity, high utilization ratio, inactivity periods, and certain demographic segments
 
 ## 📄 Reports
-- [Full Project Report (PDF)](Reports/Credit%20Card%20Customer%20Attrition%20Report.pdf)
-- [Presentation Slides (PDF)](Reports/Credit%20Card%20Customer%20Attrition%20slides.pdf)
+- [Full Project Report (PDF)](Credit%20Card%20Customer%20Attrition/Reports/Credit%20Card%20Customer%20Attrition%20Report.pdf)
+- [Presentation Slides (PDF)](Credit%20Card%20Customer%20Attrition/Reports/Credit%20Card%20Customer%20Attrition%20slides.pdf)
 
 ## 🛠️ Technologies Used
 **Python** • **pandas** • **scikit-learn** • **XGBoost** • **LightGBM** • **CatBoost** • **Matplotlib** • **Seaborn** • **Plotly** • **Optuna** (in some versions)
