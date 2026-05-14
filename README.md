@@ -7,10 +7,10 @@ This project develops predictive models to identify customers at high risk of ch
 
 ## 🎯 Business Problem
 - Churned customers are significantly more expensive to replace than to retain.
-- Goal: Build high-performing classification models to flag at-risk customers early with strong recall/precision balance.
+- Goal: Build high-performing classification models to flag at-risk customers early with a strong recall/precision balance.
 
 ## 🗂️ Dataset
-- **Source**: BankChurners.csv (loaded from AWS S3)
+- **Source**: BankChurners.csv ([Kaggle](https://www.kaggle.com/datasets/thedevastator/predicting-credit-card-customer-attrition-with-m))
 - **Target**: `Attrition_Flag` (Existing Customer vs Attrited Customer)
 - **Features**: Customer age, gender, education, marital status, income, card category, relationship metrics (months on book, total relationships), transaction activity, credit limit, utilization ratio, etc.
 
